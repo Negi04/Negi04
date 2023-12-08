@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Learning coding
 - 🌱 I’m currently learning ...basics of coding
 - 💞️ I’m looking to collaborate on ...basic software development courses
-- 📫 How to reach me ...mail me at negi05@gmail.com
+- 📫 How to reach me ...mail me at negiabhinav05@gmail.com
 
 <!---
 Negi04/Negi04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
