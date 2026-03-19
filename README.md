@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=negi04" alt="negi04" /></a> </p>
 
-- 🔭 I’m currently working on **Realtime chat app**
+- 🔭 I’m currently working on **Quick chat**
 
 - 🌱 I’m currently learning **Advance RAG**
 
