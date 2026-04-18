@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Quick chat**
 
-- 🌱 I’m currently learning **Advance RAG**
+- 🌱 I’m currently learning **Vector Database**
 
 - 👯 I’m looking to collaborate on **GenAI projects**
 
@@ -15,12 +15,12 @@
 
 - 💬 Ask me about **GenAI**
 
-- 📫 How to reach me **negiabhinav05@gmail.com**
+- 📫 How to reach me **jatinrawat072@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/abhinav-singh-negi-6767572a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhinav-singh-negi-6767572a7" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhinav_negi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhinav_negi_" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/www.linkedin.com/in/abhinav-singh-negi-6767572a7](https://www.linkedin.com/in/jatin-rawat-744883282/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhinav-singh-negi-6767572a7" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/iHanumanBhakt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhinav_negi_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
