@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jatin Rawat</h1>
+<h1 align="center">Hi 👋, I'm Abhinav Singh Negi</h1>
 <h3 align="center">A passionate GenAI developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=negi04&label=Profile%20views&color=0e75b6&style=flat" alt="negi04" /> </p>
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Quick chat**
 
-- 🌱 I’m currently learning **Vector Database**
+- 🌱 I’m currently learning **Graph RAG**
 
 - 👯 I’m looking to collaborate on **GenAI projects**
 
