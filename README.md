@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **GenAI**
 
-- 📫 How to reach me **jatinrawat072@gmail.com**
+- 📫 How to reach me **negiabhinav05@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
